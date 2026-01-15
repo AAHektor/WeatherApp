@@ -1,4 +1,6 @@
-Built with:
+# Weather App
+
+## Built with:
 * HTML5 & Tailwind CSS - For a modern, responsive UI and layout.
 
 * Vanilla JavaScript - For DOM manipulation, event handling, and logic.
@@ -7,7 +9,7 @@ Built with:
 
 * Fetch API - For handling asynchronous network requests.
 
-Features:
+## Features:
 * Real-time weather search by city name.
 
 * Dynamic weather icons based on conditions (Rain, Clouds, Clear, etc.).
