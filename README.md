@@ -1,4 +1,4 @@
-# Weather App
+**Weather App**
 
 ## Built with:
 * HTML5 & Tailwind CSS - For a modern, responsive UI and layout.
